@@ -4,6 +4,7 @@ monitoramento-rede/
 ├── hosts.txt │   
 ├── logo.png │   
 └── README.md 
+
 ├── windows/
 │   ├── coleta.ps1 │   
 ├── hosts.txt │ 
